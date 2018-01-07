@@ -1,0 +1,7 @@
+D:\C#\dotNet5778_02_4640_4825\dotNet5778_02_4640_4825\obj\Debug\dotNet5778_02_4640_4825.csprojResolveAssemblyReference.cache
+D:\C#\dotNet5778_02_4640_4825\dotNet5778_02_4640_4825\obj\Debug\dotNet5778_02_4640_4825.csproj.CoreCompileInputs.cache
+D:\C#\dotNet5778_02_4640_4825\dotNet5778_02_4640_4825\bin\Debug\dotNet5778_02_4640_4825.exe.config
+D:\C#\dotNet5778_02_4640_4825\dotNet5778_02_4640_4825\bin\Debug\dotNet5778_02_4640_4825.exe
+D:\C#\dotNet5778_02_4640_4825\dotNet5778_02_4640_4825\bin\Debug\dotNet5778_02_4640_4825.pdb
+D:\C#\dotNet5778_02_4640_4825\dotNet5778_02_4640_4825\obj\Debug\dotNet5778_02_4640_4825.exe
+D:\C#\dotNet5778_02_4640_4825\dotNet5778_02_4640_4825\obj\Debug\dotNet5778_02_4640_4825.pdb
